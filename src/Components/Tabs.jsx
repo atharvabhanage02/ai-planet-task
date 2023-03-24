@@ -14,7 +14,7 @@ function Tabs() {
     <Box sx={{ flexGrow: 1, margin: "0 150px 0 150px" }}>
       <AppBar
         position="static"
-        sx={{ backgroundColor: "white", color: "#333333", boxShadow: "none" }}
+        sx={{ backgroundColor: "#F5F5F5", color: "#333333", boxShadow: "none" }}
       >
         <Box
           sx={{
